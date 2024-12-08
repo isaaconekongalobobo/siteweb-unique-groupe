@@ -588,6 +588,22 @@ video {
   }
 }
 
+.top-full {
+  top: 100%;
+}
+
+.top-\[\] {
+  top: ;
+}
+
+.top-\[50\] {
+  top: 50;
+}
+
+.top-\[50rem\] {
+  top: 50rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
